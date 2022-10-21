@@ -1,0 +1,7 @@
+{
+    "name": "framework-quectel",
+    "description": "WizIO Frameworks for Quectel",
+    "url": "https://github.com/Wiz-IO/framework-quectel.git",
+    "system": "*",
+    "version": "2.0.20"
+}
